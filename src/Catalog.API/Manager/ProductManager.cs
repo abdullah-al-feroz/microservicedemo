@@ -8,8 +8,13 @@ namespace Catalog.API.Manager
 {
     public class ProductManager : CommonManager<Product>, IProductManager
     {
-        public ProductManager(CommonRepository<Product>repository) : base(new ProductRepository() )
+        public ProductManager() : base(new ProductRepository() )
         {
+        }
+
+        public List<Product> GetByCategory(string category)
+        {
+            return GetAll(c => c.Category == category).ToList();
         }
     }
 }
