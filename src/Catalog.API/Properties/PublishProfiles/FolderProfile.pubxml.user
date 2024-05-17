@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-05-17T07:52:07.6273682Z;True|2024-05-17T00:44:24.3960491+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
