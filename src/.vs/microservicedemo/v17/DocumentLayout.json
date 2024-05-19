@@ -3,28 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|solutionrelative:basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|solutionrelative:basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|solutionrelative:basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\basket.api\\repositiories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|solutionrelative:basket.api\\repositiories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\discount.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\discount.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|solutionrelative:basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\basket.api\\repositiories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4C9707-65C3-492F-924D-A320AA71FDC5}|Basket.API\\Basket.API.csproj|solutionrelative:basket.api\\repositiories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F22BF5C-D880-4E76-9002-6B376DEEC600}|Discount.API\\Discount.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F22BF5C-D880-4E76-9002-6B376DEEC600}|Discount.API\\Discount.API.csproj|solutionrelative:discount.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\repository\\couponrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\repository\\couponrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E68FB1A-8CCB-4F23-99C1-4803E0CC4366}|Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:discount.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F22BF5C-D880-4E76-9002-6B376DEEC600}|Discount.API\\Discount.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F22BF5C-D880-4E76-9002-6B376DEEC600}|Discount.API\\Discount.API.csproj|solutionrelative:discount.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F22BF5C-D880-4E76-9002-6B376DEEC600}|Discount.API\\Discount.API.csproj|c:\\users\\firoz\\desktop\\microservice\\microservicedemo\\src\\discount.api\\discount.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F22BF5C-D880-4E76-9002-6B376DEEC600}|Discount.API\\Discount.API.csproj|solutionrelative:discount.api\\discount.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\DiscountGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\DiscountGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Greet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Greet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +70,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Basket.API\\Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Basket.API\\Controllers\\BasketController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Discount.Grpc\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T10:47:06.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Basket.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Basket.API.csproj",
-              "RelativeDocumentMoniker": "Basket.API\\Basket.API.csproj",
-              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Basket.API.csproj",
-              "RelativeToolTip": "Basket.API\\Basket.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-17T09:43:15.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Repositiories\\BasketRepository.cs",
-              "RelativeDocumentMoniker": "Basket.API\\Repositiories\\BasketRepository.cs",
-              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Repositiories\\BasketRepository.cs",
-              "RelativeToolTip": "Basket.API\\Repositiories\\BasketRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:35:54.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Repositiories\\IBasketRepository.cs",
-              "RelativeDocumentMoniker": "Basket.API\\Repositiories\\IBasketRepository.cs",
-              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Repositiories\\IBasketRepository.cs",
-              "RelativeToolTip": "Basket.API\\Repositiories\\IBasketRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:33:52.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Basket.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\appsettings.json",
-              "RelativeToolTip": "Basket.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-17T09:27:55.525Z"
+              "WhenOpened": "2024-05-19T18:55:52.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Program.cs",
-              "RelativeDocumentMoniker": "Basket.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Basket.API\\Program.cs",
-              "RelativeToolTip": "Basket.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Program.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\Program.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Program.cs",
+              "RelativeToolTip": "Discount.Grpc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T08:08:31.475Z",
+              "WhenOpened": "2024-05-19T17:54:14.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Services\\DiscountService.cs",
+              "RelativeToolTip": "Discount.Grpc\\Services\\DiscountService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:24:05.106Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Discount.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Discount.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Discount.cs",
+              "RelativeToolTip": "Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Discount.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAvwPAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:19:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Discount.Grpc.csproj",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Discount.Grpc.csproj",
+              "RelativeDocumentMoniker": "Discount.Grpc\\Discount.Grpc.csproj",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Discount.Grpc.csproj",
+              "RelativeToolTip": "Discount.Grpc\\Discount.Grpc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T18:14:27.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiscountGrpc.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\DiscountGrpc.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\DiscountGrpc.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\DiscountGrpc.cs",
+              "RelativeToolTip": "Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\DiscountGrpc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:19:44.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "discount.proto",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Protos\\discount.proto",
+              "RelativeDocumentMoniker": "Discount.Grpc\\Protos\\discount.proto",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Protos\\discount.proto",
+              "RelativeToolTip": "Discount.Grpc\\Protos\\discount.proto",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-05-19T18:01:13.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Greet.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Greet.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Greet.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Greet.cs",
+              "RelativeToolTip": "Discount.Grpc\\obj\\Debug\\net7.0\\Protos\\Greet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:19:46.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.API\\Program.cs",
+              "RelativeDocumentMoniker": "Discount.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.API\\Program.cs",
+              "RelativeToolTip": "Discount.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:54:07.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CouponRepsitory.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Repository\\CouponRepsitory.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\Repository\\CouponRepsitory.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Repository\\CouponRepsitory.cs",
+              "RelativeToolTip": "Discount.Grpc\\Repository\\CouponRepsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:53:36.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "Discount.Grpc\\Repository\\ICouponRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:53:02.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Discount.Grpc\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\Models\\Coupon.cs",
+              "RelativeToolTip": "Discount.Grpc\\Models\\Coupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:52:20.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\appsettings.json",
+              "RelativeDocumentMoniker": "Discount.Grpc\\appsettings.json",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.Grpc\\appsettings.json",
+              "RelativeToolTip": "Discount.Grpc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T17:47:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Discount.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.API\\appsettings.json",
+              "RelativeToolTip": "Discount.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T17:47:46.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Discount.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.API\\Discount.API.csproj",
+              "RelativeDocumentMoniker": "Discount.API\\Discount.API.csproj",
+              "ToolTip": "C:\\Users\\Firoz\\Desktop\\microservice\\microservicedemo\\src\\Discount.API\\Discount.API.csproj",
+              "RelativeToolTip": "Discount.API\\Discount.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T17:46:05.497Z"
             }
           ]
         }

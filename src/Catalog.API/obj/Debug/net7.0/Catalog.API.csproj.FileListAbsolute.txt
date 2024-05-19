@@ -5,14 +5,18 @@ C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\n
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Catalog.API.runtimeconfig.json
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Catalog.API.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Catalog.API.pdb
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\CoreApiResponse.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\DnsClient.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\MongoDB.Bson.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\MongoDB.Driver.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\MongoDB.Driver.Core.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\MongoRepo.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\SharpCompress.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -39,7 +43,3 @@ C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\obj\Debug\n
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\obj\Debug\net7.0\Catalog.API.pdb
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\obj\Debug\net7.0\Catalog.API.genruntimeconfig.cache
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\obj\Debug\net7.0\ref\Catalog.API.dll
-C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\CoreApiResponse.dll
-C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Catalog.API\bin\Debug\net7.0\Newtonsoft.Json.dll
