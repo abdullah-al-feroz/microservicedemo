@@ -53,3 +53,10 @@ C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\obj\Debug\ne
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\obj\Debug\net7.0\Basket.API.pdb
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\obj\Debug\net7.0\Basket.API.genruntimeconfig.cache
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\obj\Debug\net7.0\ref\Basket.API.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Basket.API\bin\Debug\net7.0\Grpc.Net.Common.dll

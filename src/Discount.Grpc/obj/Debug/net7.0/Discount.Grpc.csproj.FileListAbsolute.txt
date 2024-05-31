@@ -37,3 +37,5 @@ C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Discount.Grpc\obj\Debug
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Discount.Grpc\obj\Debug\net7.0\Discount.Grpc.pdb
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Discount.Grpc\obj\Debug\net7.0\Discount.Grpc.genruntimeconfig.cache
 C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Discount.Grpc\obj\Debug\net7.0\ref\Discount.Grpc.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Discount.Grpc\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Firoz\Desktop\microservice\microservicedemo\src\Discount.Grpc\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
